@@ -1,13 +1,13 @@
 # React + Vite
 
 
-TO RUN:
+TO RUN:<br>
 Go to terminal:
 
---Backend:
-    cd backend
+--Backend:<br>
+    cd backend<br>
     npm run start
     <br>
---Frontend:
-    cd frontend
+--Frontend:<br>
+    cd frontend<br>
     npm run dev
